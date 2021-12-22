@@ -1,0 +1,33 @@
+
+
+@@@@@@@@@@@@@@@ == ../../inputs/hw5-4.txt == @@@@@@@@@@@@@@@
+
+
+
+			Welcome to the Mid-life Crisis walk simulator
+			---------------------------------------------
+
+Please, enter a minimum walking distance: Please, enter a maximum walking distance: 
+The probality for a mid-life adult in crisis to walk 4 blocks to go to the casino based on 10000 is 94.71%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 44422.
+
+The probality for a mid-life adult in crisis to walk 5 blocks to go to the casino based on 10000 is 87.56%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 53258.
+
+The probality for a mid-life adult in crisis to walk 6 blocks to go to the casino based on 10000 is 74.91%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 55466.
+
+The probality for a mid-life adult in crisis to walk 7 blocks to go to the casino based on 10000 is 59.72%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 51906.
+
+The probality for a mid-life adult in crisis to walk 8 blocks to go to the casino based on 10000 is 42.33%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 41558.
+
+The probality for a mid-life adult in crisis to walk 9 blocks to go to the casino based on 10000 is 26.65%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 28761.
+
+The probality for a mid-life adult in crisis to walk 10 blocks to go to the casino based on 10000 is 15%.
+The total number of successful trials to reach the casino (every step that led to the casino for each of the 10000 runs is 17692.
+
+Thank You for using the simulator, bye...
+
